@@ -1,0 +1,7 @@
+POST http://localhost:8080/db/2
+
+mamma2,4,true
+
+###
+
+GET http://localhost:8080/db/1
